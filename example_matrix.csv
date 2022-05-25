@@ -1,0 +1,14 @@
+; This is a sample matrix
+; How to test my code?
+; 1. open the program, select option 2
+; 2. type in the name of this file and hit enter
+; 3. select option 5 to see the solution
+; (you don't need to delete this comment, my program can handle it)
+;   x1      x2      x3      x4      x5      A
+    1,      0,      0,      0,      0,      56
+    0,      1,      0,      0,      0,      78
+    0,      0,      1,      0,      0,      56
+; even if i put a comment in the middle of a matrix
+    0,      0,      0,      1,      0,      1/9
+    0,      0,      0,      0,      1,      5 / 6
+; or at the end
